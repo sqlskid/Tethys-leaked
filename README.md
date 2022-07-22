@@ -5,12 +5,17 @@ Btw popbobikovi otw Lunarovi je to u pici takze se nesnaz o DMCA Adamku 🙃
 ----------------------------------------------------------------------------------------
 **Credits:**
 ```
-Master7720 - For giving me the SRC for check if its real so i leaked it after sometime (Wont say how he got it)
-_3000IQPlay - For leaking this + removing the rat that doesnt work anymore and doing some other things with it
+Master7720 - For giving me the SRC for check if its real so i leaked it after sometime (popbobik sent him)
+_3000IQPlay - For leaking this + removing the useless rat class that didn't get called anywhere
 Popbobik/2u9 on github - For making GuguHack (GuguPolice owner and this client)
 VirtualBox - For acting like a nerd and contributing in GuguHack 🤓
 Xellu - For making the rat and some other shit LMAO
 ```
+
+![ddd](https://cdn.discordapp.com/attachments/997600724991094814/999953417214644264/unknown.png)
+![ggg](https://media.discordapp.net/attachments/997600724991094814/999954191814508554/unknown.png)
+![zzz](https://cdn.discordapp.com/attachments/997600724991094814/999954224215502859/unknown.png)
+![gag](https://media.discordapp.net/attachments/997600724991094814/999955304701771856/unknown.png)
 
 GuguRat (Xellu leak):
 ---------------------------------------
